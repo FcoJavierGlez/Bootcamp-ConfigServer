@@ -1,0 +1,13 @@
+server: 
+  port: 8083
+some:
+  description: Esto es un reto. PRODUCCION.
+  author: Francisco Javier Gonzalez Sabariego. PRODUCCIO.
+  sota: Sota. PRODUCCION.
+  caballo: Caballo. PRODUCCION.
+  rey: Rey. PRODUCCION.
+management:
+  endpoints:
+    web:
+      exposure:
+        include: '*'

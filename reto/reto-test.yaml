@@ -1,0 +1,13 @@
+server: 
+  port: 8082
+some:
+  description: Esto es un reto. Modo test activo.
+  author: Francisco Javier Gonzalez Sabariego. Modo test activo.
+  sota: Sota. Modo test activo.
+  caballo: Caballo. Modo test activo.
+  rey: Rey. Modo test activo.
+management:
+  endpoints:
+    web:
+      exposure:
+        include: '*'

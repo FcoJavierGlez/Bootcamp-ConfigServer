@@ -1,0 +1,13 @@
+server: 
+  port: 8081
+some:
+  description: Esto es un reto.
+  author: Francisco Javier Gonzalez Sabariego
+  sota: Sota
+  caballo: Caballo
+  rey: Rey
+management:
+  endpoints:
+    web:
+      exposure:
+        include: '*'
