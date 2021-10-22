@@ -1,4 +1,4 @@
 server: 
   port: 8083
 some:
-  value: Valor del servidor producción
+  value: Valor del servidor produccion
